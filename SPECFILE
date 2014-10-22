@@ -1,0 +1,11 @@
+title: REMI Salt Formula
+description: Salt formula for installing REMI
+root_path: remi
+components:
+  - title: REMI
+    description: REMI
+    sls_path: remi
+
+
+pillar_defaults:
+  -
