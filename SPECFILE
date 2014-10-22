@@ -7,5 +7,4 @@ components:
     sls_path: remi
 
 
-pillar_defaults:
-  -
+pillar_defaults: {}
